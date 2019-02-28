@@ -1,2 +1,2 @@
-This repo contains codes for various topics in Networks and Communication.</br>
+This repo contains simulation codes for various topics in Networks and Communication.</br>
 Written in multiple languages.
