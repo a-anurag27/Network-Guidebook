@@ -4,4 +4,9 @@ Written in multiple languages.
 <ol>
   <li>Error Correction</li>
   <li>Socket Programming</li>
+  <li>Flow Control Mechanism</li>
+  <ol>
+    <li>Stop And Wait</li>
+    <li>Go Back N</li>
+  </ol>
 </ol>
