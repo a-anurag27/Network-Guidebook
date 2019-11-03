@@ -18,3 +18,5 @@ Written in multiple languages.
   <li>IP Addressing</li>
   <li>Ns2 Simulation Example</li>
 </ol>
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
