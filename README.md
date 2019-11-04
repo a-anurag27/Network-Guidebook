@@ -19,4 +19,5 @@ Written in multiple languages.
   <li>Ns2 Simulation Example</li>
 </ol>
 https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
-https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-
+https://drive.google.com/drive/folders/1tgaMCthF6MqIDANohCRGsVbmU49PZdHZ?usp=sharing
